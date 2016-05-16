@@ -1,0 +1,11 @@
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\InsertDataInMongoDBUsingCSharp.exe.config
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\InsertDataInMongoDBUsingCSharp.exe
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\InsertDataInMongoDBUsingCSharp.pdb
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\MongoDB.Bson.dll
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\MongoDB.Driver.Core.dll
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\MongoDB.Driver.dll
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\MongoDB.Bson.xml
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\bin\Debug\MongoDB.Driver.xml
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\obj\Debug\InsertDataInMongoDBUsingCSharp.csprojResolveAssemblyReference.cache
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\obj\Debug\InsertDataInMongoDBUsingCSharp.exe
+D:\Dev\InsertDataInMongoDBUsingCSharp\InsertDataInMongoDBUsingCSharp\obj\Debug\InsertDataInMongoDBUsingCSharp.pdb
